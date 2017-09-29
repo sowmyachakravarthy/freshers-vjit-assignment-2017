@@ -1,0 +1,14 @@
+101,Chicken Fajita,250,1
+102,Chicken Burrito,300,1
+103,Enchilladas,250,1
+104,Fish Tacos,300,1
+200,Margarita,350,2
+201,Coke,150,2
+202,Sprite,150,2
+203,Ice Tea,200,2
+302,Nachos n Cheese,200,3
+303,Chips n Salsa,200,3
+304,Chips n Gauc,250,3
+401,Chocolate Cake,300,4
+402,Chocolate brownie,300,4
+403,Cheesecake,300,4
